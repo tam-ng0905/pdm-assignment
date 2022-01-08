@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P8+V2iJOpMmTrXxRwP+ZBZuWKnaB4CPIsbWXPV8y+Z2zSoZChjV/1XMBDwZGF37WlfYiLKp0/xBx+LmOdP/IFQ==",
+  "dgSpecHash": "u5W4f/lzggh+eN05h1SZPg4vh7z2wFOIp+g4fwI3W/UJ8pIM3F9gAI8A1tc9rDa8cVM1dDFJ94QsY3LMwYL0CA==",
   "success": true,
-  "projectFilePath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/API/API.csproj",
+  "projectFilePath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/tamnguyen/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/Users/tamnguyen/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

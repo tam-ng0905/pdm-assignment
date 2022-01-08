@@ -3097,11 +3097,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Infrastructure/Infrastructure.csproj",
+      "projectUniqueName": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Infrastructure/Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Infrastructure/Infrastructure.csproj",
+      "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Infrastructure/Infrastructure.csproj",
       "packagesPath": "/Users/tamnguyen/.nuget/packages/",
-      "outputPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Infrastructure/obj/",
+      "outputPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -3119,8 +3119,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Application/Application.csproj": {
-              "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Application/Application.csproj"
+            "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Application/Application.csproj": {
+              "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Application/Application.csproj"
             }
           }
         }

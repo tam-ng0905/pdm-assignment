@@ -5,13 +5,6 @@ import LoadingComponent from "../../../app/layout/LoadingComponent";
 import agent from "../../../app/api/agent";
 
 
-interface Author{
-    id: string,
-    firstName: string,
-    lastName: string
-}
-
-
 export default function BookDetail(){
     const {bookStore} = useStore();
     const {openForm, cancelSelectBook, selectedBook, setLoading} = bookStore;

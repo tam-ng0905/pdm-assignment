@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/Domain.csproj": {}
+    "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Domain/Domain.csproj": {}
   },
   "projects": {
-    "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/Domain.csproj": {
+    "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/Domain.csproj",
+        "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Domain/Domain.csproj",
         "packagesPath": "/Users/tamnguyen/.nuget/packages/",
-        "outputPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/obj/",
+        "outputPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

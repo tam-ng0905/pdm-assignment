@@ -17,7 +17,10 @@ const sleep = (delay: number) => {
 }
 
 //Setting up the default URL
-axios.defaults.baseURL = 'http://localhost:5000/api';
+axios.defaults.baseURL = process.env.REACT_APP_API_URL;
+
+
+
 //send the token in the headers
 axios.interceptors.request.use(config => {
     //save and send the jwt token with the requests
@@ -30,6 +33,7 @@ axios.interceptors.request.use(config => {
 //generate the loading effect
 axios.interceptors.response.use(async response => {
     try {
+        if(process.env.NODE_ENV === 'development') await sleep(1000);
         await sleep(1000);
         const pagination = response.headers['pagination'];
         if (pagination) {

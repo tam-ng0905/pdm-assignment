@@ -41,6 +41,10 @@ namespace API
             // app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            //Used to serve the react frontend
+            app.UseDefaultFiles();
+            app.UseStaticFiles();
             
             app.UseCors("CorsPolicy");
 
@@ -52,6 +56,7 @@ namespace API
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+                endpoints.MapFallbackToController("Index", "Fallback");
             });
         }
     }

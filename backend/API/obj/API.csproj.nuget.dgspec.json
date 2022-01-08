@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/API/API.csproj": {}
+    "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/API/API.csproj": {}
   },
   "projects": {
-    "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/API/API.csproj": {
+    "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/API/API.csproj",
+        "projectUniqueName": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/API/API.csproj",
+        "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/API/API.csproj",
         "packagesPath": "/Users/tamnguyen/.nuget/packages/",
-        "outputPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/API/obj/",
+        "outputPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/API/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -29,11 +29,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Application/Application.csproj": {
-                "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Application/Application.csproj"
+              "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Application/Application.csproj": {
+                "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Application/Application.csproj"
               },
-              "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Infrastructure/Infrastructure.csproj": {
-                "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Infrastructure/Infrastructure.csproj"
+              "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Infrastructure/Infrastructure.csproj"
               }
             }
           }
@@ -121,14 +121,14 @@
         }
       }
     },
-    "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Application/Application.csproj": {
+    "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Application/Application.csproj",
+        "projectUniqueName": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Application/Application.csproj",
+        "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Application/Application.csproj",
         "packagesPath": "/Users/tamnguyen/.nuget/packages/",
-        "outputPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Application/obj/",
+        "outputPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Application/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -146,11 +146,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/Domain.csproj": {
-                "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/Domain.csproj"
+              "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Domain/Domain.csproj": {
+                "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Domain/Domain.csproj"
               },
-              "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Persistence/Persistence.csproj": {
-                "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Persistence/Persistence.csproj"
+              "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Persistence/Persistence.csproj"
               }
             }
           }
@@ -227,14 +227,14 @@
         }
       }
     },
-    "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/Domain.csproj": {
+    "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/Domain.csproj",
+        "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Domain/Domain.csproj",
         "packagesPath": "/Users/tamnguyen/.nuget/packages/",
-        "outputPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/obj/",
+        "outputPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -306,14 +306,14 @@
         }
       }
     },
-    "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Infrastructure/Infrastructure.csproj": {
+    "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Infrastructure/Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Infrastructure/Infrastructure.csproj",
+        "projectUniqueName": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Infrastructure/Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Infrastructure/Infrastructure.csproj",
+        "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Infrastructure/Infrastructure.csproj",
         "packagesPath": "/Users/tamnguyen/.nuget/packages/",
-        "outputPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Infrastructure/obj/",
+        "outputPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -331,8 +331,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Application/Application.csproj": {
-                "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Application/Application.csproj"
+              "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Application/Application.csproj": {
+                "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Application/Application.csproj"
               }
             }
           }
@@ -385,14 +385,14 @@
         }
       }
     },
-    "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Persistence/Persistence.csproj": {
+    "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Persistence/Persistence.csproj",
+        "projectUniqueName": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Persistence/Persistence.csproj",
+        "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Persistence/Persistence.csproj",
         "packagesPath": "/Users/tamnguyen/.nuget/packages/",
-        "outputPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Persistence/obj/",
+        "outputPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Persistence/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -410,8 +410,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/Domain.csproj": {
-                "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/Domain.csproj"
+              "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Domain/Domain.csproj": {
+                "projectPath": "/Users/tamnguyen/Documents/Dev/pdm-assignment/backend/Domain/Domain.csproj"
               }
             }
           }
