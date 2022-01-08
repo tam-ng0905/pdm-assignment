@@ -31,7 +31,7 @@ You have to install the dotnet SDK and React before running the project
 - For all the code that implement the CRUD operations to satisfy the `1.` and `2.` requirements, it can found in `backend/API/Controllers` and iin the `backend/Application/`
 - To satisfy the search function `3.`, you have look at the logic in `backend/Application/Titles/Search.cs`
 - The main table in the database is the Title (AKA books), which is the file `backend/Domain/Title.cs`. The table is also indexed by the book's name and price, which are two values that the book will be looked for.
-- To allow the user to search with multiple attributes, you have look up book by its name and the maximum price for the result.
+- To allow the user to search with multiple attributes `4.`, you have look up book by its name and the maximum price for the result.
 - The application can support multiple store owners at the same time and the data are segregated by its current user. 
 The book that is `owned` by user `tam` will not be seen when user `hubert` log in and otherwise. 
 - Before I also implemented the `distributed lock` with Redis. But after receiving your clarification on the last `bonus point`, I removed it since there is no point
