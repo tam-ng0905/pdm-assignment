@@ -1,0 +1,14 @@
+/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/bin/Debug/net6.0/Domain.deps.json
+/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/bin/Debug/net6.0/Domain.dll
+/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/bin/Debug/net6.0/ref/Domain.dll
+/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/bin/Debug/net6.0/Domain.pdb
+/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/obj/Debug/net6.0/Domain.dll
+/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/obj/Debug/net6.0/ref/Domain.dll
+/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/obj/Debug/net6.0/Domain.pdb
+/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/bin/Debug/net6.0/Domain.runtimeconfig.json
+/Users/tamnguyen/Documents/Dev/pdm-auto/backend/Domain/obj/Debug/net6.0/Domain.genruntimeconfig.cache
