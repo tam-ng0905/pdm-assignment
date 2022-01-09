@@ -20,8 +20,9 @@ You have to install the dotnet SDK and React before running the project
 ## Installation
 1. `cd client-app` and `npm run build`
 2. `cd backend/API` and `dotnet watch run`
-3. Open the browser to `http://localhost:5000/`
-4. Use one of the credential above to log in (I don't have the log out component so the only way is to delete the `jwt` key in the `localStorage` and reload the page)
+3. Once you run the backend, it will generate feed the database with 1,000,000 random books and 10,000 random authors data from the `backend/Persistence/Seed.cs`
+4. Open the browser to `http://localhost:5000/`
+5. Use one of the credential above to log in (I don't have the log out component so the only way is to delete the `jwt` key in the `localStorage` and reload the page)
 
 
 ## Report
@@ -39,6 +40,7 @@ of locking book when one its user can see and edit it.
 
 
 ## Analysis 
-- Right now, the search query takes about 3s. The reason is because it has to check the linking table
-for the book and its current user. Before, it only took less or about 1s. In the professional project, I think I can make it run faster
+- Initially, the search query took 14 seconds with the indexes. After I added the pagination so that the query only returns about 10 items each time. The runtime reduced down to 1s. 
+Right now, the search query takes about 3s. The reason is because it has to check the linking table
+for the book and its current user. In the professional project, I think I can make it run faster
 by sharding the database by its user.
